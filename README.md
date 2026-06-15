@@ -9,3 +9,4 @@ Features:
 - Unit testing using nose
 - OpenShift pipeline execution
 - Automated deployment
+Updated CI workflow
